@@ -10,5 +10,11 @@
     "songName": "Chaand Baaliyan",
     "filePath": "./music/2.mp3",
     "coverPath": "https://64.media.tumblr.com/c8fa5d034ac8438e4eb49b758343e2fc/7e95a9c6b74066e0-4a/s640x960/451a1427a2ceaac866954873dd2aabea266a4faa.jpg"
+  },
+  {
+    "id": "3",
+    "songName": "Woh Badtameez",
+    "filePath": "./music/3.mp3",
+    "coverPath": "https://64.media.tumblr.com/b83b778e35421f89f7f3d9ee254f76ac/cfae88f3ee2109ca-09/s400x600/337f44a17c5de9c0d01e73b6a5b5e32cb8077c1d.jpg"
   }
 ]
